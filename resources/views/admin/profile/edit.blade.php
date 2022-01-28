@@ -59,7 +59,7 @@
                 </form>
                 <hr>
                 <div class="card-footer">
-                    Project By &hearts; <a href="https://github.com/rizalihwan" target="_blank"> Rizal Ihwan</a>
+                    Project By &hearts; <a href="https://github.com/cahyamaullna" target="_blank"> Aisyah</a>
                 </div>
             </div>
         </div>
